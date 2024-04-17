@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="app.cryptoloader">
+        <State />
+      </entry>
+      <entry key="app.data_thread">
+        <State />
+      </entry>
+      <entry key="app.looper">
+        <State />
+      </entry>
+      <entry key="app.musicplayer">
+        <State />
+      </entry>
+      <entry key="app.serviceapp">
+        <State />
+      </entry>
+      <entry key="app.thread">
+        <State />
+      </entry>
+      <entry key="app.workmanager">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
